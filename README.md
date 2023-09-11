@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have built a project in less than 30 mins and use it almost everyday.
 
 ### My Skills
-![Python](https://img.shields.io/badge/Python-3.8-brightgreen.svg)
+![Python](https://img.shields.io/badge/Python-3.11-brightgreen.svg)
 ![Javascript](https://img.shields.io/badge/Javascript-yellow.svg)
 
