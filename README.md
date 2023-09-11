@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Prakriti Pokharel,
 
-A self-tault software developer discovering the world of software development. I like building web applications that create value. I am passionate about WebDev, AI, and creating little utilities that assist me in my daily life.
+A self-taught software developer discovering the world of web development. I like building web applications that create value. I am passionate about WebDev, AI, and creating little utilities that assist me in my daily life.
 
 <!--
 **iprakritip/iprakritip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
