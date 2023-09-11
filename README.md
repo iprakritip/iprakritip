@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have built a project in less than 30 mins and use it almost everyday.
 
 ### My Skills
-<div style="display:inline">
+<div style="display:flex, justify-content: center, align-items:center ">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" alt="Javascript Logo" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React Logo" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="Typescript Logo" width="50">
