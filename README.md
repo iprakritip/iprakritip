@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have built a project in less than 30 mins and use it almost everyday.
 
 ### My Skills
-![Python](https://img.shields.io/badge/Python-3.11-brightgreen.svg)
-![Javascript](https://img.shields.io/badge/Javascript-yellow.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" alt="Javascript Logo" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React Logo" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="Typescript Logo" width="100">
+<img src="https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png" alt="HTML Logo" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS Logo" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python Logo" width="100">
+<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django Logo" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="Postgres Logo" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" alt="GraphQL Logo" width="100">
+
+
+
 
