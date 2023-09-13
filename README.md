@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 
 -->
- 🔭 I’m currently working at SCSS Consulting.
- 🌱 I’m currently learning Full Stack Development.
- ⚡ Fun fact: I have built a project in less than 30 mins and use it almost everyday.
+- 🔭 I’m currently working at SCSS Consulting.
+- 🌱 I’m currently learning Full Stack Development.
+- ⚡ Fun fact: I have built a project in less than 30 mins and use it almost everyday.
 
 ### My Skills
 <div style="display:flex; justify-content: center; align-items:center; ">
